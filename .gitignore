@@ -27,5 +27,5 @@ target/
 build/
 
 ### VS Code ###
-.vscode/
+.vscode/*
 !.vscode/bookmarks.json

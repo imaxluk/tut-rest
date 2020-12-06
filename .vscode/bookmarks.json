@@ -1,0 +1,27 @@
+[
+	{
+		"path": "$ROOTPATH$/nonrest/src/main/java/payroll/Employee.java",
+		"bookmarks": [
+			{
+				"line": 48,
+				"column": 19,
+				"label": "为何、如何重写equals()方法"
+			},
+			{
+				"line": 60,
+				"column": 17,
+				"label": "equals方法与hashCode方法的关系"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/nonrest/src/main/java/payroll/LoadDatabase.java",
+		"bookmarks": [
+			{
+				"line": 14,
+				"column": 9,
+				"label": "运行时运行"
+			}
+		]
+	}
+]
