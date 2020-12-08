@@ -29,4 +29,3 @@ build/
 ### VS Code ###
 .vscode/*
 !.vscode/bookmarks.json
-!.vscode/sftp.json
